@@ -6,8 +6,9 @@ export const NavTop = () => {
       style={{
         display: "flex",
         justifyContent: "space-between",
-        padding: "20px 10px",
+        padding: "0 24px",
         alignItems: "center",
+        height: "48px",
       }}
     >
       <h1 style={{ margin: 0 }}>Chain</h1>
